@@ -1,0 +1,17 @@
+{
+  "name": "dmdviewpicture",
+  "version": "1.0.0",
+  "description": "这是一款vue图片预览插件。为DMD公司量身而做",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue图片预览",
+    "vue-viewer",
+    "viewer-picture",
+    "picture"
+  ],
+  "author": "weisy",
+  "license": "ISC"
+}
