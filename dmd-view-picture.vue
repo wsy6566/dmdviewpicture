@@ -137,7 +137,7 @@ export default {
   color: aliceblue;
 
   z-index: 9999;
-  background-color: rgba(0,0,0,0.3);
+
 }
 .img-el {
   max-width: 80vw;
@@ -162,7 +162,9 @@ footer{
   padding: 10px;
   text-align: center;
   position: relative;
-  
+      background-color: rgba(0,0,0,0.3);
+    border-radius: 9px;
+      margin-top: 5px;
 }
 footer span{
   display: inline-block;
@@ -179,10 +181,12 @@ footer span{
   font-weight: 600;
   -webkit-user-select:none;
   user-select:none;
+
 }
 .img-el{
   transition: 1s;
   transform-origin: center;
   transform:rotate(0deg) scale(1);
+  border-radius: 4px;
 }
 </style>
